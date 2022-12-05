@@ -1,6 +1,7 @@
 # Ford GoBike System Dataset Exploration 
 ## by Lien Nguyen Doan Kieu Lien
 
+You could take a look at my blog by clicking [here](https://medium.com/@ndklien3004/ford-gobike-system-dataset-exploration-f4655299134) 
 
 ## Dataset
 
